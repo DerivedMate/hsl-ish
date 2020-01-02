@@ -1,0 +1,17 @@
+[package]
+name = 'hsl-ish'
+version = '0.1.0'
+authors = ['lastshadowpl <xeloxpl@windowslive.com>']
+edition = '2018'
+license = 'MIT'
+description = 'A dead simple implementation of the HSL color space; indended for conversion to the RGB color space.'
+homepage = 'https://github.com/DerivedMate/hsl-ish'
+repository = 'https://github.com/DerivedMate/hsl-ish'
+keywords = [
+    'hsl',
+    'rgb',
+    'color',
+    'conversion',
+]
+
+[dependencies]
