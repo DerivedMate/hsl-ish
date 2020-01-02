@@ -5,7 +5,7 @@ A dead simple, accurate enough (see the tests) implementation of the [HSL](https
 I couldn't find the right implementation of the color space for one of my visualization project (none of the known to me implementations at the time implemented implemented the HSL-RGB conversion), so I decided to create my own, tiny and dead simple implementation.
 
 ## Caveats
-The HSL-RGB conversion (`Rgb::from(hsl: Hsl)`) currently appears to give results that are one-off from the expected ones under certain conditions (see: [issue](#)).
+The HSL-RGB conversion (`Rgb::from(hsl: Hsl)`) currently appears to give results that are one-off from the expected ones under certain conditions (see: [issue](https://github.com/DerivedMate/hsl-ish/issues/1)).
 
 ## Contributing
 Any contributions, be it bug fixes or new features, are greatly appreciated :grin:.
